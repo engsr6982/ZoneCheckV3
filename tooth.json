@@ -1,25 +1,24 @@
 {
     "format_version": 2,
-    "tooth": "change-this",
-    "version": "0.0.0",
+    "tooth": "github.com/engsr6982/ZoneCheckV3",
+    "version": "1.1.0",
     "info": {
-        "name": "change-this",
-        "description": "change-this",
-        "author": "change-this",
+        "name": "ZoneCheckV3",
+        "description": "区域检查、边界计算、查找坐标",
+        "author": "engsr6982",
+        "source": "github.com/engsr6982/ZoneCheckV3",
         "tags": [
             "levilamina",
-            "plugin"
+            "zonecheck",
+            "library"
         ]
     },
-    "asset_url": "change-this",
-    "prerequisites": {
-        "github.com/LiteLDev/LeviLamina": "change-this"
-    },
+    "asset_url": "https://github.com/engsr6982/ZoneCheckV3/releases/download/v1.1.0/ZoneCheckV3-windows-x64.zip",
     "files": {
         "place": [
             {
-                "src": "change-this/*",
-                "dest": "plugins/change-this/"
+                "src": "ZoneCheckV3/*",
+                "dest": "plugins/ZhoneCheckV3/"
             }
         ]
     }
