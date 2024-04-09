@@ -7,6 +7,12 @@
 
 ## [Unreleased]
 
+## [1.1.1] - 2024-04-09
+
+### Changed
+
+- Update tooth.json
+
 ## [1.1.0] - 2024-04-02
 
 ### Added
