@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/engsr6982/ZoneCheckV3",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "info": {
         "name": "ZoneCheckV3",
         "description": "区域检查、边界计算、查找坐标",
@@ -13,7 +13,7 @@
             "library"
         ]
     },
-    "asset_url": "https://github.com/engsr6982/ZoneCheckV3/releases/download/v1.1.1/ZoneCheckV3-windows-x64.zip",
+    "asset_url": "https://github.com/engsr6982/ZoneCheckV3/releases/download/v1.2.0/ZoneCheckV3-windows-x64.zip",
     "files": {
         "place": [
             {

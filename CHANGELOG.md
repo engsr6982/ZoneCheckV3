@@ -7,6 +7,12 @@
 
 ## [Unreleased]
 
+## [1.2.0] - 2024-04-29
+
+### Changed
+
+- Adapts to LeviLamina Version 0.12.1
+
 ## [1.1.1] - 2024-04-09
 
 ### Changed
